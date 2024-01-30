@@ -1,4 +1,4 @@
-![Header](https://github.com/VictorvarTIC/RedRoverSchool/blob/master/RRS.jpg)
+![Header](https://github.com/VictorvarTIC/RedRoverSchool/blob/main/RRS%20(1).jpg)
 
 ## <h1 align="center"> Hello my dear friend!I have created this repository to keep all my QA Automation course activities on the <a href="https://redrover.school/ru" target="_blank"> RedRover.School </a> educational platform here!
 
