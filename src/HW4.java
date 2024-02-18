@@ -35,12 +35,6 @@ public class HW4 {
         System.out.println("Task 3.v2");
         for (int i = 40; i <= 60; i = i + 4) {
             System.out.println(i);
-            }
-
-
-
-
-
-
+        }
     }
 }
