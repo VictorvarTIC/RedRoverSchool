@@ -1,3 +1,4 @@
+//https://www.youtube.com/watch?v=OdTRJLWbcHg&list=PL6Gtav8N4O7hBE01SU-rFPuQ2qg_a7IwQ&index=8
 public class HW3 {
     public static void main(String[] args) {
         int a = 88;
@@ -50,7 +51,7 @@ public class HW3 {
         if (a < 100) {
             System.out.println("переменная меньше 100");
         }
-        if (a / 2 > 20) {
+        if (a * 1.0 / 2 > 20) {
             System.out.println("результат деления на 2 больше 20");
         }
         if ( a >= 5 && a <= 40) {
