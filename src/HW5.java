@@ -113,12 +113,5 @@ public class HW5 {
         }
         System.out.println(count);
         System.out.println();
-//-----------------------------------------------------
-
-
-
-
-
-
     }
 }
